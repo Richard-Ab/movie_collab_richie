@@ -1,0 +1,8 @@
+.movie__list{
+  display: flex;
+
+}
+
+#movie__image{
+ height: 400px;
+}
